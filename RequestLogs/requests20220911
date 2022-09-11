@@ -1,0 +1,99 @@
+2022-09-11 18:50:31.670 +03:00  INF  RAMJobStore initialized.
+2022-09-11 18:50:31.732 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 18:50:31.732 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 18:50:32.919 +03:00  INF  GET REQUEST => [{"id":10,"firstName":"Dewey","lastName":"Larsen","age":60},{"id":2,"firstName":"ali","lastName":"mest","age":30},{"id":7,"firstName":"cestte","lastName":"mest","age":30},{"id":9,"firstName":"Leila","lastName":"Lane","age":25},{"id":3,"firstName":"cenk","lastName":"mest","age":30},{"id":6,"firstName":"test","lastName":"mest","age":30},{"id":5,"firstName":"kett","lastName":"mest","age":30},{"id":4,"firstName":"zeu","lastName":"mest","age":30},{"id":1,"firstName":"string","lastName":"string","age":30},{"id":9,"firstName":"ssss","lastName":"mest","age":30},{"id":8,"firstName":"uuuu","lastName":"mest","age":30}]
+2022-09-11 18:58:54.932 +03:00  INF  RAMJobStore initialized.
+2022-09-11 18:58:54.978 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 18:58:54.978 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 18:59:43.499 +03:00  INF  POST REQUEST => {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-ac63ee700a2c6cb190dbbaad38b1fb43-6b93d0d1e3d2c838-00","errors":{"x[0]":["Age value cannot be less than 18"]}}
+2022-09-11 19:00:07.729 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:00:07.772 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:00:07.772 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:00:22.180 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:00:22.255 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:00:22.255 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:02:51.002 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:02:51.044 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:02:51.044 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:03:32.941 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:03:32.985 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:03:32.986 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:05:37.719 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:05:37.834 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:05:37.834 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:07:17.437 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:07:17.564 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:07:17.564 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:07:27.140 +03:00  INF  POST REQUEST => [{"id":10,"firstName":"Sadie","lastName":"Larsen","age":61},{"id":11,"firstName":"Tomas","lastName":"Chan","age":86},{"id":12,"firstName":"Lukas","lastName":"Harrison","age":28}]
+2022-09-11 19:07:37.175 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:07:37.261 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:07:37.261 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:07:57.120 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:07:57.169 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:07:57.169 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:09:09.956 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:09:09.995 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:09:09.995 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:09:12.371 +03:00  INF  POST REQUEST => {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-71609a2da8871f9208ff20d8b2dd9168-944b180ffec66322-00","errors":{"x[1]":["Age value cannot be less than 18"]}}
+2022-09-11 19:09:24.853 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:09:24.911 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:09:24.912 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:10:11.602 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:10:11.668 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:10:11.669 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:10:13.965 +03:00  INF  POST REQUEST => {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-2ccaec0fa6ea6ec0862846dc22bb1b6e-11c0fe745518d768-00","errors":{"x[2]":["Age value cannot be less than 18"]}}
+2022-09-11 19:10:19.192 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:10:19.276 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:10:19.277 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:10:23.461 +03:00  INF  POST REQUEST => {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-256a6b1d22125cf289438c4729fd7eee-da43946a57b98681-00","errors":{"x[0]":["Age value cannot be less than 18"]}}
+2022-09-11 19:10:29.288 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:10:29.373 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:10:29.373 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:14:04.677 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:14:04.743 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:14:04.743 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 19:15:33.590 +03:00  INF  POST REQUEST => {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-a052688cf600bc554f670c293d97a2d4-7ccf76239ab04731-00","errors":{"x[0]":["Age value cannot be less than 18"]}}
+2022-09-11 19:15:38.542 +03:00  INF  RAMJobStore initialized.
+2022-09-11 19:15:38.607 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 19:15:38.607 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 20:35:55.772 +03:00  INF  RAMJobStore initialized.
+2022-09-11 20:35:55.857 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 20:35:55.857 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 20:35:57.169 +03:00  INF  Job worked...
+2022-09-11 20:35:57.169 +03:00  INF  Job stopped...
+2022-09-11 20:36:53.180 +03:00  INF  Job worked...
+2022-09-11 20:36:53.180 +03:00  INF  Job stopped...
+2022-09-11 20:37:57.269 +03:00  INF  Job worked...
+2022-09-11 20:37:57.271 +03:00  INF  Job stopped...
+2022-09-11 20:38:37.492 +03:00  INF  RAMJobStore initialized.
+2022-09-11 20:38:37.530 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 20:38:37.530 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 20:38:38.609 +03:00  INF  Job worked...
+2022-09-11 20:38:38.609 +03:00  INF  Job stopped...
+2022-09-11 20:38:50.385 +03:00  INF  RAMJobStore initialized.
+2022-09-11 20:38:50.445 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 20:38:50.445 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 20:38:51.089 +03:00  INF  Job worked...
+2022-09-11 20:38:51.089 +03:00  INF  Job stopped...
+2022-09-11 20:39:25.248 +03:00  INF  RAMJobStore initialized.
+2022-09-11 20:39:25.376 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 20:39:25.377 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 20:39:26.253 +03:00  INF  Job worked...
+2022-09-11 20:39:26.253 +03:00  INF  Job stopped...
+2022-09-11 20:39:38.946 +03:00  INF  RAMJobStore initialized.
+2022-09-11 20:39:39.000 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 20:39:39.000 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 20:39:39.786 +03:00  INF  Job worked...
+2022-09-11 20:39:39.786 +03:00  INF  Job stopped...
+2022-09-11 20:40:28.854 +03:00  INF  RAMJobStore initialized.
+2022-09-11 20:40:28.893 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 20:40:28.893 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 20:40:29.597 +03:00  INF  Job worked...
+2022-09-11 20:40:29.597 +03:00  INF  Job stopped...
+2022-09-11 20:41:55.006 +03:00  INF  RAMJobStore initialized.
+2022-09-11 20:41:55.055 +03:00  INF  Quartz scheduler 'QuartzScheduler' initialized
+2022-09-11 20:41:55.055 +03:00  INF  Quartz scheduler version: 3.4.0.0
+2022-09-11 20:41:55.746 +03:00  INF  Job worked...
+2022-09-11 20:41:55.746 +03:00  INF  Job stopped...
+2022-09-11 20:42:53.957 +03:00  INF  Job worked...
+2022-09-11 20:42:53.957 +03:00  INF  Job stopped...
